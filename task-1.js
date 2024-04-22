@@ -29,7 +29,7 @@ function combineArray(arr1, arr2) {
         combineArr.push(arr1[i]);
     }
 
-    for (var j = 0; j < arr1.length; j++) {
+    for (var j = 0; j < arr2.length; j++) {
         combineArr.push(arr2[j]);
     }
 
