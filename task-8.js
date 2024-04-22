@@ -7,5 +7,5 @@ function centuryFromYear(year) {
     return centuryCount;
 }
 
-var centuryAdd = 101;
+var centuryAdd = 2001;
 console.log(centuryFromYear(centuryAdd));
